@@ -22,6 +22,7 @@ As the user, you should be able to:
   - Choose an items you would like to buy
   - End your transactions and recieve your change
 - Select to print an output file that prints the number of each item sold and total sales
+- CSV file is in etc folder
 
 ## Additional Information
 
